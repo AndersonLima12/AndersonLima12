@@ -1,7 +1,6 @@
 # Hello guys 🖖💻
 
 
-<img align="right" src="https://github.com/AndersonLima12/AndersonLima12/blob/main/laptop.jpg" width="420"/>
 
 <a href="https://www.linkedin.com/in/anderson-lima-85ab05200/">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Anderson Lima-blue"/>
