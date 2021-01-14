@@ -7,7 +7,7 @@
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Anderson Lima-blue"/>
 </a>
 
-<a href="anderson_developer@outlook.com">
+<a href="https://outlook.live.com/mail/0/inbox">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-Email%20%20%20-red"/>
 </a>
 
