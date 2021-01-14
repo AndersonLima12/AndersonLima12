@@ -1,5 +1,18 @@
 # Hello guys 🖖💻
 
+
+<img align="right" src="https://github.com/AndersonLima12/AndersonLima12/blob/main/laptop.jpg" width="420"/>
+
+<a href="https://www.linkedin.com/in/anderson-lima-85ab05200/">
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Anderson Lima-blue"/>
+</a>
+
+<a href="anderson_developer@outlook.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-Email%20%20%20-red"/>
+</a>
+
+<br/>
+
 ### A little about myself ! 😅
 
 - 🙆 **My name is Anderson Nunes**
