@@ -15,7 +15,7 @@
 - 🧠 **Student of information system** 
 - 👨🏼‍💻 **Junior developer in front-end and back-end.**
 - 🏙 **From AL living in Maceió**
-- 💻 **HTML, CSS, Javascript, Bootstrap, MySQL, PostgreSQL**
+- 💻 **HTML, CSS, Javascript, Bootstrap, MySQL, PostgreSQL, PHP, VueJs**
 - ✨ **Learning is continuous and there will always be a next level**
 
 
