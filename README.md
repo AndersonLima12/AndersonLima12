@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndersonLima12&color=yellow" alt="Profile views" /> </p>
 
-![Snake animation](https://github.com/andersonlima12/andersonlima12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AndersonLima12/AndersonLima12/blob/output/github-contribution-grid-snake.svg)
 
 ### A little about myself ! 😅
 
