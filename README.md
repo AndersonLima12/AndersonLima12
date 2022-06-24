@@ -13,7 +13,7 @@
 - 🙆 **My name is Anderson Nunes**
 - 🇧🇷 **I am Brazilian** 
 - 🧠 **Student of information system** 
-- 👨🏼‍💻 **Júnior developer in front-end and back-end.**
+- 👨🏼‍💻 **Júnior developer in front-end**
 - 🏙 **From AL living in União dos Palmares**
 - 💻 **HTML, CSS, Javascript, Bootstrap, GIT**
 - ✨ **Learning is continuous and there will always be a next level**
