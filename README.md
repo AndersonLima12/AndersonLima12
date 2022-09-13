@@ -43,9 +43,11 @@
 
 ![Snake animation](https://github.com/AndersonLima12/AndersonLima12/blob/output/github-contribution-grid-snake.svg)
 
-## 👨‍💻 &nbsp;Knowledge in: 
+
 
 <!--
+## 👨‍💻 &nbsp;Knowledge in: 
+
 #### Integrated Development Environment:
 
 [![INTELLIJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
