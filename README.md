@@ -1,4 +1,5 @@
-<h1 align="center">Hello Guys </h1>
+<h1 align="center">Speak Personal </h1>
+<h3> "The art of programming consists of organizing and mastering complexity.“ - Edsger W. Dijkstra 🚀 </h3>
 
 <br>
 
@@ -18,6 +19,7 @@
 - 💻 **HTML, CSS, Javascript, Bootstrap, GIT**
 - ✨ **Learning is continuous and there will always be a next level**
 
+<br/>
 
 ## 🛠 &nbsp;Studying At The Moment
 
@@ -32,9 +34,19 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left" margin="50em">
+<img width="420em"  src="https://github-readme-stats.vercel.app/api?username=AndersonLima12&show_icons=true&theme=radical" alt="maykbrito's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLima12&layout=compact&theme=vue-dark" alt="Anderson Lima's most languages"/>
+</p>
+
+<br/>
+
+![Snake animation](https://github.com/AndersonLima12/AndersonLima12/blob/output/github-contribution-grid-snake.svg)
 
 ## 👨‍💻 &nbsp;Knowledge in: 
 
+<!--
 #### Integrated Development Environment:
 
 [![INTELLIJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
@@ -42,19 +54,21 @@
 [![VISUALSTUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 
 
-#### Operational System:
-
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](#)
-
 #### PC Settings:
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#)
 [![RAM](https://img.shields.io/badge/RAM-6GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](#)
 [![COREI5](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
 [![NVIDIA 2GB](https://img.shields.io/badge/NVIDIA-930M-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
+
+-->
+
+#### Operational System:
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](#)
 
 #### Back-end:
 
@@ -77,15 +91,3 @@
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
 [![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](#)
 
-
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left" margin="50em">
-<img width="420em"  src="https://github-readme-stats.vercel.app/api?username=AndersonLima12&show_icons=true&theme=radical" alt="maykbrito's stats"/>
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLima12&layout=compact&theme=vue-dark" alt="Anderson Lima's most languages"/>
-</p>
-
-![Snake animation](https://github.com/AndersonLima12/AndersonLima12/blob/output/github-contribution-grid-snake.svg)
-
-### "The art of programming consists of organizing and mastering complexity.“ - Edsger W. Dijkstra 🚀
