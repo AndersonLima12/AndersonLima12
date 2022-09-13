@@ -33,6 +33,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
+<br/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left" margin="50em">
