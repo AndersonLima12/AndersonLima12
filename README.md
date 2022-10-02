@@ -21,6 +21,50 @@
 
 <br/>
 
+## 🛠 &nbsp; Knowledge In
+
+<p align="left" margin="50em">
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"/>
+
+</p>
+
+<br/>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left" margin="50em">
+
+<img width="92%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonLima12&theme=dracula"/>
+<img width="30%"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonLima12&theme=dracula"/>
+<img width="30%"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndersonLima12&theme=dracula"/>
+<img width="30%"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonLima12&theme=dracula"/>
+
+</p>
+
+<br/>
+
 ## 🛠 &nbsp;Studying At The Moment
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -30,14 +74,6 @@
 ![SQL](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-
-<br/>
-
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left" margin="50em">
-<img width="420em"  src="https://github-readme-stats.vercel.app/api?username=AndersonLima12&show_icons=true&theme=radical" alt="maykbrito's stats"/>
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLima12&layout=compact&theme=vue-dark" alt="Anderson Lima's most languages"/>
-</p>
 
 <br/>
 
@@ -91,6 +127,7 @@
 [![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](#)
 
 
+<img width="420em"  src="https://github-readme-stats.vercel.app/api?username=AndersonLima12&show_icons=true&theme=radical" alt="maykbrito's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLima12&layout=compact&theme=vue-dark" alt="Anderson Lima's most languages"/>
+
 -->
-
-
