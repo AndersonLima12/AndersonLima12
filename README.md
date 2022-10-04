@@ -54,7 +54,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left" margin="50em">
+<p align="center" margin="50em">
 
 <img width="92%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonLima12&theme=dracula"/>
 <img width="30%"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonLima12&theme=dracula"/>
