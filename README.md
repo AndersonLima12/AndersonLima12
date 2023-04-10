@@ -16,7 +16,7 @@
 - 🧠 **Student of information system** 
 - 👨🏼‍💻 **Júnior developer in front-end**
 - 🏙 **From AL living in União dos Palmares**
-- 💻 **HTML, CSS, Javascript, Bootstrap, GIT**
+- 💻 **HTML, CSS, Javascript, Bootstrap, GIT, React, Node, PHP, Laravel**
 - ✨ **Learning is continuous and there will always be a next level**
 
 <br/>
