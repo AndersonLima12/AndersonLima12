@@ -47,8 +47,9 @@
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"/>
-
-</p>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg"/>
 
 <br/>
 
