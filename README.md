@@ -49,8 +49,8 @@
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg"/>
+<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg"/>
-
 <br/>
 
 ## ⚙️ &nbsp;GitHub Analytics
