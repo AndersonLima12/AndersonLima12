@@ -78,12 +78,11 @@
 
 <br/>
 
-![Snake animation](https://github.com/AndersonLima12/AndersonLima12/blob/output/github-contribution-grid-snake.svg)
-
-
-
 <!--
 ## 👨‍💻 &nbsp;Knowledge in: 
+
+![Snake animation](https://github.com/AndersonLima12/AndersonLima12/blob/output/github-contribution-grid-snake.svg)
+
 
 #### Integrated Development Environment:
 
