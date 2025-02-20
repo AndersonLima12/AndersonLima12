@@ -5,19 +5,21 @@
 
 <img align="right" src="https://raw.githubusercontent.com/gist/AndersonLima12/96fc7ed3e0040c8d4c488944f6168a6e/raw/57527588ce3f5cfd6fd5d98cd4dbc6ae5acf934f/githubcard.svg" width="320" /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndersonLima12&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndersonLima12&color=red" alt="Profile views" /> </p>
 
+## About Me! 😅
 
-
-### A little about myself ! 😅
-
-- 🙆 **My name is Anderson Nunes**
-- 🇧🇷 **I am Brazilian** 
-- 🧠 **Student of information system** 
-- 👨🏼‍💻 **Pleno developer in front-end**
-- 🏙 **From AL living in União dos Palmares**
-- 💻 **HTML, CSS, Javascript, Bootstrap, GIT, React, Node, PHP, Laravel and VueJs**
-- ✨ **Learning is continuous and there will always be a next level**
+- 🙆 **Name:** Anderson Nunes
+- 🇧🇷 **Nationality:** Brazilian
+- 🧠 **Graduated in Information Systems**
+- 👨🏼‍💻 **Pleno Developer specializing in Web Development (Front-End & Back-End)**
+- 🏙 **Based in União dos Palmares, AL**
+- 💻 **Technologies I Work With:**
+  - **Front-End:** HTML, CSS, JavaScript, React, Bootstrap, Vue.js
+  - **Back-End:** Python (Flask, Django), Node.js, PHP, Laravel
+  - **Databases:** MySQL, PostgreSQL
+  - **Version Control:** GIT, GitHub
+- ✨ **Philosophy:** "Learning is a continuous journey, and there is always a next level to reach."
 
 <br/>
 
@@ -31,7 +33,6 @@
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"/>
@@ -41,15 +42,11 @@
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg"/>
 <img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg"/>
 <br/>
 
@@ -68,13 +65,8 @@
 
 ## 🛠 &nbsp;Studying At The Moment
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![SQL](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 
 <br/>
 
