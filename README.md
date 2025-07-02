@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/gist/AndersonLima12/96fc7ed3e0040c8d4c488944f6168a6e/raw/57527588ce3f5cfd6fd5d98cd4dbc6ae5acf934f/githubcard.svg" width="320" /> 
+<!-- <img align="right" src="https://raw.githubusercontent.com/gist/AndersonLima12/96fc7ed3e0040c8d4c488944f6168a6e/raw/57527588ce3f5cfd6fd5d98cd4dbc6ae5acf934f/githubcard.svg" width="320" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndersonLima12&color=red" alt="Profile views" /> </p>
 
