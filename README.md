@@ -15,7 +15,7 @@
 - 👨🏼‍💻 **Pleno Developer specializing in Web Development (Front-End & Back-End)**
 - 🏙 **Based in União dos Palmares, AL**
 - 💻 **Technologies I Work With:**
-  - **Front-End:** HTML, CSS, JavaScript, React, Bootstrap, Vue.js
+  - **Front-End:** HTML, CSS, JavaScript, React, Bootstrap, Vue.js, NextJs
   - **Back-End:** Python (Flask, Django), Node.js, PHP, Laravel
   - **Databases:** MySQL, PostgreSQL
   - **Version Control:** GIT, GitHub
