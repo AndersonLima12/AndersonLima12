@@ -12,7 +12,7 @@
 - 🙆 **Name:** Anderson Nunes
 - 🇧🇷 **Nationality:** Brazilian
 - 🧠 **Graduated in Information Systems**
-- 👨🏼‍💻 **Pleno Developer specializing in Web Development (Front-End & Back-End)**
+- 👨🏼‍💻 **Sênior Developer specializing in Web Development (Front-End & Back-End)**
 - 🏙 **Based in União dos Palmares, AL**
 - 💻 **Technologies I Work With:**
   - **Front-End:** HTML, CSS, JavaScript, React, Bootstrap, Vue.js, NextJs
