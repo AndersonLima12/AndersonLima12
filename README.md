@@ -1,74 +1,99 @@
-<h1 align="center">Hello Guys</h1>
-<h3> "The art of programming consists of organizing and mastering complexity.“ - Edsger W. Dijkstra 🚀 </h3>
+<h1 align="center">👋 Hello Guys, I'm Anderson Nunes</h1>
+<h3 align="center">Sênior Full Stack Developer | React, Next.js, Node.js & Python 🚀</h3>
+<h4 align="center">"The art of programming consists of organizing and mastering complexity.“ – Edsger W. Dijkstra</h4>
 
-<br>
-
-<!-- <img align="right" src="https://raw.githubusercontent.com/gist/AndersonLima12/96fc7ed3e0040c8d4c488944f6168a6e/raw/57527588ce3f5cfd6fd5d98cd4dbc6ae5acf934f/githubcard.svg" width="320" /> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndersonLima12&color=red" alt="Profile views" /> </p>
-
-## About Me! 😅
-
-- 🙆 **Name:** Anderson Nunes
-- 🇧🇷 **Nationality:** Brazilian
-- 🧠 **Graduated in Information Systems**
-- 👨🏼‍💻 **Sênior Developer specializing in Web Development (Front-End & Back-End)**
-- 🏙 **Based in União dos Palmares, AL**
-- 💻 **Technologies I Work With:**
-  - **Front-End:** HTML, CSS, JavaScript, React, Bootstrap, Vue.js, NextJs
-  - **Back-End:** Python (Flask, Django), Node.js, PHP, Laravel
-  - **Databases:** MySQL, PostgreSQL
-  - **Version Control:** GIT, GitHub
-- ✨ **Philosophy:** "Learning is a continuous journey, and there is always a next level to reach."
-
-<br/>
-
-## 🛠 &nbsp; Knowledge In
-
-<p align="left" margin="50em">
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg"/>
-<img width="4%"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg"/>
-<br/>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center" margin="50em">
-
-<img width="92%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonLima12&theme=dracula"/>
-<img width="30%"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonLima12&theme=dracula"/>
-<img width="30%"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndersonLima12&theme=dracula"/>
-<img width="30%"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonLima12&theme=dracula"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndersonLima12&color=red" alt="Profile views" />
 </p>
 
-<br/>
+---
 
-## 🛠 &nbsp;Studying At The Moment
+## 👨‍💻 About Me
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+Com mais de **10 anos de experiência em Tecnologia da Informação (TI)**, iniciei minha carreira atuando como **analista de suporte técnico, designer gráfico e web designer**, o que me deu uma visão completa da **experiência do usuário (UX/UI)** e do impacto das soluções digitais nos objetivos de negócio.  
 
-<br/>
+Atualmente, atuo como **Desenvolvedor Sênior Full Stack**, especializado em **JavaScript/TypeScript (React.js, Next.js, React Native, Node.js)** e também em **Python (Flask/Django)**.  
+
+Minha bagagem como designer fortalece minha atenção à **usabilidade, acessibilidade digital (A11Y)**, **design responsivo** e melhores práticas de **UI/UX**.  
+Além disso, possuo sólida experiência em **arquiteturas escaláveis, APIs REST/GraphQL, versionamento com Git/GitHub e metodologias ágeis (Scrum/Kanban)**.  
+
+✨ **Filosofia:** *"Learning is a continuous journey, and there is always a next level to reach."*
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Front-End  
+<p align="left">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"/>
+</p>
+
+### 🔹 Back-End  
+<p align="left">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
+</p>
+
+### 🔹 Databases  
+<p align="left">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg"/>
+</p>
+
+### 🔹 Tools & Others  
+<p align="left">
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"/>
+  <img width="5%" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"/>
+</p>
+
+---
+
+## 🤝 Soft Skills
+
+- Trabalho em equipe e colaboração  
+- Comunicação clara e eficaz  
+- Proatividade e aprendizado contínuo  
+- Pensamento analítico e foco em entregas  
+- Atenção aos detalhes e boas práticas de código  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="92%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonLima12&theme=dracula"/>
+</p>
+<p align="center">
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonLima12&theme=dracula"/>
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndersonLima12&theme=dracula"/>
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonLima12&theme=dracula"/>
+</p>
+
+---
+<!-- 
+## 📚 Currently Studying
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart"/>
+</p>
+-->
 
 <!--
 ## 👨‍💻 &nbsp;Knowledge in: 
