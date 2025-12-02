@@ -12,7 +12,7 @@
 
 Com mais de **10 anos de experiência em Tecnologia da Informação (TI)**, iniciei minha carreira atuando como **analista de suporte técnico, designer gráfico e web designer**, o que me deu uma visão completa da **experiência do usuário (UX/UI)** e do impacto das soluções digitais nos objetivos de negócio.  
 
-Atualmente, atuo como **Desenvolvedor Sênior Full Stack**, especializado em **JavaScript/TypeScript (React.js, Next.js, React Native, Node.js)** e também em **Python (Flask/Django)**.  
+Atualmente, atuo como **Desenvolvedor Sênior Full Stack**, especializado em **JavaScript/TypeScript (React.js, Next.js, React Native, Node.js)** e também em **Python (Flask/Django/FastApi)**.  
 
 Minha bagagem como designer fortalece minha atenção à **usabilidade, acessibilidade digital (A11Y)**, **design responsivo** e melhores práticas de **UI/UX**.  
 Além disso, possuo sólida experiência em **arquiteturas escaláveis, APIs REST/GraphQL, versionamento com Git/GitHub e metodologias ágeis (Scrum/Kanban)**.  
